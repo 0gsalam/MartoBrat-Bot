@@ -210,4 +210,4 @@ client.on('message', message =>{
 
 
 
-client.login(procces.env.token);
+client.login('<BOT_TOKEN_HERE>');
